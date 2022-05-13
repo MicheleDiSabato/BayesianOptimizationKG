@@ -12,6 +12,10 @@ convergence to the optimum.
 
 Finally, we tested our contribution to the open source repository on some test functions. The results can be found here: https://github.com/MicheleDiSabato/BayesianOptimizationKG/blob/main/Report_summary.pdf .
 
+To have more information about the theoretical background for a general Bayesian Optimization algorithm and, in particular, for the KnowledgeGradient acquisition function, please have a look to:
+* https://github.com/MicheleDiSabato/BayesianOptimizationKG/blob/main/Report.pdf
+* https://github.com/MicheleDiSabato/BayesianOptimizationKG/blob/main/Report_summary.pdf
+
 What follows is the documentation of the bayes-opt python library.
 # Bayesian Optimization
 
