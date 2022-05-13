@@ -4,14 +4,15 @@ Original repository is found here: https://github.com/fmfn/BayesianOptimization
 
 Our contribution can be found also here: https://github.com/MartinaGaravaglia/BayesianOptimization
 
-Our focus was implementing in Python some ad hoc functions to
+Our focus was providing a Python implementation of some ad hoc functions, to be added to
 the already existing open-source library of Bayesian Optimization by Fernando
 Nogueira [https://github.com/fmfn/BayesianOptimization]. We developed a multi-dimensional version of the Knowledge Gradient function, together with some graphical interfaces for the visualization of the Knowledge
-Gradient and all
+Gradient, in addition to all
 the acquisition functions already implemented in the library. These interfaces help us better visualize our results and compare their
 convergence to the optimum.
 Finally, we tested our contribution to the open source repository on some test functions. The results can be found here: https://github.com/MicheleDiSabato/BayesianOptimizationKG/blob/main/Report_summary.pdf .
 
+What follows is the documentation of the bayes-opt python library.
 # Bayesian Optimization
 
 <div align="center">
