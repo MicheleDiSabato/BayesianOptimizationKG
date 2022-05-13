@@ -4,11 +4,11 @@ Original repository is found here: https://github.com/fmfn/BayesianOptimization
 
 Our contribution can be found also here: https://github.com/MartinaGaravaglia/BayesianOptimization
 
+# Bayesian Optimization
+
 <div align="center">
   <img src="https://github.com/fmfn/BayesianOptimization/blob/master/examples/func.png"><br><br>
 </div>
-
-# Bayesian Optimization
 
 [![Travis](https://img.shields.io/travis/fmfn/BayesianOptimization/master.svg?label=Travis%20CI)](https://travis-ci.org/fmfn/BayesianOptimization)
 [![Codecov](https://codecov.io/github/fmfn/BayesianOptimization/badge.svg?branch=master&service=github)](https://codecov.io/github/fmfn/BayesianOptimization?branch=master)
