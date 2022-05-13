@@ -9,6 +9,7 @@ Nogueira [https://github.com/fmfn/BayesianOptimization]. We developed a multi-di
 Gradient, in addition to all
 the acquisition functions already implemented in the library. These interfaces help us better visualize our results and compare their
 convergence to the optimum.
+
 Finally, we tested our contribution to the open source repository on some test functions. The results can be found here: https://github.com/MicheleDiSabato/BayesianOptimizationKG/blob/main/Report_summary.pdf .
 
 What follows is the documentation of the bayes-opt python library.
