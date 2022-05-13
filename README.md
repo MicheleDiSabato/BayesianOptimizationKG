@@ -1,3 +1,10 @@
+# Authors:
+* [Raffaella D'Anna](https://www.linkedin.com/in/raffaella-d-anna-b779501a6/)
+* Michele Di Sabato
+* Martina Garavaglia
+* Anna Iob
+* Veronica Mazzola
+
 # Open source project:
 
 * original repository: https://github.com/fmfn/BayesianOptimization
