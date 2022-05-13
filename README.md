@@ -2,7 +2,7 @@
 
 Original repository is found here: https://github.com/fmfn/BayesianOptimization
 
-Our contribution can be found also at: https://github.com/MartinaGaravaglia/BayesianOptimization
+Our contribution can be found also here: https://github.com/MartinaGaravaglia/BayesianOptimization
 
 <div align="center">
   <img src="https://github.com/fmfn/BayesianOptimization/blob/master/examples/func.png"><br><br>
