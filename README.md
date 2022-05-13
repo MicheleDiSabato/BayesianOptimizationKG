@@ -1,9 +1,9 @@
 # Authors:
 * [Raffaella D'Anna](https://www.linkedin.com/in/raffaella-d-anna-b779501a6/)
-* Michele Di Sabato
-* Martina Garavaglia
-* Anna Iob
-* Veronica Mazzola
+* [Michele Di Sabato](https://www.linkedin.com/in/michele-di-sabato/)
+* [Martina Garavaglia](https://www.linkedin.com/in/martina-garavaglia/)
+* [Anna Iob](https://www.linkedin.com/in/anna-iob-a27795217/)
+* [Veronica Mazzola](https://www.linkedin.com/in/veronicamazzola/)
 
 # Open source project:
 
