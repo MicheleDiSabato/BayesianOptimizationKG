@@ -1,8 +1,7 @@
 # Open source project:
 
-Original repository is found here: https://github.com/fmfn/BayesianOptimization
-
-Our contribution can be found also here: https://github.com/MartinaGaravaglia/BayesianOptimization
+* original repository: https://github.com/fmfn/BayesianOptimization
+* our contribution can be found also here: https://github.com/MartinaGaravaglia/BayesianOptimization
 
 Our focus was providing a Python implementation of some ad hoc functions, to be added to
 the already existing open-source library of Bayesian Optimization by Fernando
