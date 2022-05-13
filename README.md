@@ -1,8 +1,8 @@
 # Open source project:
 
-original repository is found here: https://github.com/fmfn/BayesianOptimization
+Original repository is found here: https://github.com/fmfn/BayesianOptimization
 
-our contribution is found also at: https://github.com/MartinaGaravaglia/BayesianOptimization
+Our contribution can be found also at: https://github.com/MartinaGaravaglia/BayesianOptimization
 
 <div align="center">
   <img src="https://github.com/fmfn/BayesianOptimization/blob/master/examples/func.png"><br><br>
