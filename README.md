@@ -1,5 +1,7 @@
-# **Open source** project:
+# Open source project:
+
 original repository is found here: https://github.com/fmfn/BayesianOptimization
+
 our contribution is found also at: https://github.com/MartinaGaravaglia/BayesianOptimization
 
 <div align="center">
