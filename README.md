@@ -36,8 +36,6 @@ To have more information about the **theoretical background** for a general Baye
 What follows is the **documentation** of the bayes-opt python library.
 
 -----------------
------------------
------------------
 
 # Documentation of bayes-opt python library
 
