@@ -37,7 +37,7 @@ What follows is the **documentation** of the bayes-opt python library.
 
 <hr style="border:2px solid blue">
 
-# Bayesian Optimization
+# Documentation of bayes-opt python library
 
 <div align="center">
   <img src="https://github.com/fmfn/BayesianOptimization/blob/master/examples/func.png"><br><br>
