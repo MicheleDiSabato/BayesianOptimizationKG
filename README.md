@@ -5,7 +5,9 @@
 * [Anna Iob](https://www.linkedin.com/in/anna-iob-a27795217/)
 * [Veronica Mazzola](https://www.linkedin.com/in/veronicamazzola/)
 
-# Our contribution: 
+# Open source project:
+
+## Our contribution to the open source project: 
 * some additions to [`bayesian_optimization.py`](bayes_opt1/bayesian_optimization.py)
 * knowledge gradient call and definition in [`util.py`](bayes_opt1/util.py)
 * plotting functions in [`plot_gp_function.py`](examples/plot_gp_function.py)
@@ -13,11 +15,11 @@
 
 For a more detailed explanation of the theory behind Bayesian Optimization have a look at [our report](report.pdf). For a more concise explanation, feel free to read [these slides](slides.pdf).
 
-# Open source project:
-
+# Links
 * original repository: https://github.com/fmfn/BayesianOptimization
 * our contribution can be found also here: https://github.com/MartinaGaravaglia/BayesianOptimization
 
+# Goals
 Our focus was providing a **Python implementation** of some ad hoc functions, to be added to
 the already existing open-source library of Bayesian Optimization by Fernando
 Nogueira [https://github.com/fmfn/BayesianOptimization]. We developed a **multi-dimensional version of the Knowledge Gradient function**, together with some graphical interfaces for the visualization of the Knowledge
@@ -33,6 +35,7 @@ To have more information about the **theoretical background** for a general Baye
 
 What follows is the **documentation** of the bayes-opt python library.
 
+---------------------------------------
 # Bayesian Optimization
 
 <div align="center">
