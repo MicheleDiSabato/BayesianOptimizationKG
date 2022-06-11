@@ -5,6 +5,14 @@
 * [Anna Iob](https://www.linkedin.com/in/anna-iob-a27795217/)
 * [Veronica Mazzola](https://www.linkedin.com/in/veronicamazzola/)
 
+# Our contribution: 
+* some additions to [`bayesian_optimization.py`](bayes_opt1/bayesian_optimization.py)
+* knowledge gradient call and definition in [`util.py`](bayes_opt1/util.py)
+* plotting functions in [`plot_gp_function.py`](examples/plot_gp_function.py)
+* comparative analysis in [`plot_acq_func_examples.ipynb`](examples/plot_acq_func_examples.ipynb) and [`visualization.ipynb`](examples/visualization.ipynb)
+
+For a more detailed explanation of the theory behind Bayesian Optimization have a look at [our report](report.pdf). For a more concise explanation, feel free to read [these slides](slides.pdf).
+
 # Open source project:
 
 * original repository: https://github.com/fmfn/BayesianOptimization
