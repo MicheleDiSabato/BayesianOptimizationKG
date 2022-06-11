@@ -35,7 +35,7 @@ To have more information about the **theoretical background** for a general Baye
 
 What follows is the **documentation** of the bayes-opt python library.
 
-<hr style="border:8px solid black">
+<hr style="border:80px solid blue">
 
 # Bayesian Optimization
 
